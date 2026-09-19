@@ -17,7 +17,7 @@ from telegram.ext import (
 
 import os
 
-TOKEN = os.getenv("8818046486:AAE-EnRlrRQ8TOszxGC_5aXKUaNsjVoIyz4")
+TOKEN = os.getenv("TOKEN")
 
 BOT_NAME = "𝗔𝘁𝗹𝗮Take"
 
